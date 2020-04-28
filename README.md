@@ -12,3 +12,16 @@ del %0`
 不用介绍了 感谢AM电脑吧:年老痴呆
 #### 之后导入Bat_To_Exe_Converter将bat转换成exe
 ps:language可以切换为中文
+
+![battoexe](https://s1.ax1x.com/2020/04/28/JIHGGV.png)
+此软件有捆绑功能与填写软件功能 我这里不需要我就不弄了 这是我的配置 自行DIY
+
+##### RLO字符运用
+![RLO](https://s1.ax1x.com/2020/04/28/JIbNfP.gif)
+看GIF把 不解释了都 
+ps:想看后缀请到文件夹设置里设置显示后缀！
+附上链接
+[点我](https://jingyan.baidu.com/article/ab69b2707a7deb2ca6189f6f.html "点我看看教程")
+~~*这个教程真的好小白算是 一个demo了吧*~~
+THANK YOU!!!
+### END
