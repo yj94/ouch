@@ -10,6 +10,7 @@ del %0`
 记事本添加以上代码后，保存修改后缀为bat。'如果你想测试的话可以打开hhh
 ### CmdEncryption 加密bat文件
 不用介绍了 感谢AM电脑吧:年老痴呆
+ps:这里我没使用这个 因为没必要 演示一下而已！
 #### 之后导入Bat_To_Exe_Converter将bat转换成exe
 ps:language可以切换为中文
 
