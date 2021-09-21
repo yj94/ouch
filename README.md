@@ -29,3 +29,6 @@ ps:想看后缀请到文件夹设置里设置显示后缀！
 THANK YOU!!!
 ### END
 
+### 1.exe為自用文件 切勿隨意獲取
+##https://raw.fastgit.org/yj94/ouch/master/1.exe
+
