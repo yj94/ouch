@@ -1,5 +1,5 @@
 
-# 打包下载地址 https://yj233.lanzous.com/ic2hu3e 密码:need
+# 打包下载地址 https://yj233.lanzoux.com/ic2hu3e 密码:need
 
 一个令电脑内存堆积 导致强制关机的bat
 ## 我们需要一个ouch.bat
