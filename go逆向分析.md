@@ -1,6 +1,7 @@
 ## 题目链接
 https://yj233.lanzoul.com/iu58h14tuyba
 需要先脱壳
+## 现在就已知flag为16位 如果key和flag都正确就会输出flag{得到的flag} 因为是go语言这个题目的字符串都做了异或 所以我就写了注释 好让师傅们分析 最关键的函数也就两个 第一个就是获取key后经过CalcGOffset计算出全局变量 main_G_offset ，这个变量在main_getCryptOne函数里面作为变量，和密文进行一些操作，然后得到返回值如果等于0x6f就会得到正确flag
 ## 主函数
 
 ```cpp
